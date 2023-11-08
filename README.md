@@ -8,7 +8,7 @@
 
 
 ## Languages:
-<img align="left" alt="c++" width="26px" src="https://www.azulschool.net/wp-content/uploads/group-avatars/9/5db2c9c908df4-bpfull.png" />
+<img align="left" alt="c++" width="30px" src="https://www.azulschool.net/wp-content/uploads/group-avatars/9/5db2c9c908df4-bpfull.png" />
 
 ## Tools:
 ![](https://code.visualstudio.com/opengraphimg/opengraph-blog.png)
