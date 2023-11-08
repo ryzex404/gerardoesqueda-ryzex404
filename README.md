@@ -8,6 +8,6 @@
 
 
 ## Languages:
-![](https://www.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw1uk9puavpaus5SnnV7A2cP&ust=1699496573398000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC2hJ6ss4IDFQAAAAAdAAAAABAE)
+![](https://img2.freepng.es/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg)
 
 ## Tools:
