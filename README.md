@@ -8,6 +8,6 @@
 
 
 ## Languages:
-![](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png)
+![](https://www.azulschool.net/wp-content/uploads/group-avatars/9/5db2c9c908df4-bpfull.png)
 
 ## Tools:
