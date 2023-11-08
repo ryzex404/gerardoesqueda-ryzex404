@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://analystcave.com/wp-content/uploads/2014/10/VBA-Progress-Bar.gif">
   <img  src="https://analystcave.com/wp-content/uploads/2014/10/VBA-Progress-Bar.gif"
-       alt="loading" width="200px" height="100px"
+       alt="loading" width="200px" height="200px"
     /></a>
 </div>
 <br>
