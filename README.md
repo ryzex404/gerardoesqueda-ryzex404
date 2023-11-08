@@ -9,9 +9,9 @@
 
 ## I'm a Computer Science Engineering student from Jalisco, MX
 
-- :📚: Studying at UDG CUALTOS
-- :👾: Currently learning c++
-- :📔: 2023 goals to pass physics
+- 📚 Studying at UDG CUALTOS
+- 👾 Currently learning c++
+- 📔 2023 goals to pass physics
 
 
 ## Languages:
