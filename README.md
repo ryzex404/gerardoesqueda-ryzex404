@@ -2,7 +2,8 @@
 <div align="center">
   <a href="https://art.pixilart.com/028d26275ff2b38.gif">
   <img  src="https://art.pixilart.com/028d26275ff2b38.gif"
-       alt="loading" /></a>
+       alt="loading" width="200px" height="200px"
+    /></a>
 </div>
 <br>
 
