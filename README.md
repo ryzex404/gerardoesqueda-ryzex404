@@ -8,6 +8,6 @@
 
 
 ## Languages:
-![](https://img2.freepng.es/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg)
+![](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png)
 
 ## Tools:
