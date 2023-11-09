@@ -1,7 +1,5 @@
 # Developer in process...
-_ _ _
-<br/> 
-<br/> 
+
 <div align="center">
   <a href="https://analystcave.com/wp-content/uploads/2014/10/VBA-Progress-Bar.gif">
   <img  src="https://analystcave.com/wp-content/uploads/2014/10/VBA-Progress-Bar.gif"
