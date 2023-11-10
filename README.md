@@ -30,7 +30,7 @@
 <br>
 
 ### Socials:
-[![gerardo_esqued4](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gerardo_esqued4) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gerardo_esqued4) 
 <br>
 <br>
 
