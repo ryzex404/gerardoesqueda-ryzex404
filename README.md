@@ -43,11 +43,16 @@
 
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryzex404&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryzex404&theme=clear&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-</div>
-
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ryzex404&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=ryzex404&theme=clear&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+    </td>
+  </tr>
+</table>
 
 <br>
 
