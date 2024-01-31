@@ -17,7 +17,7 @@
 
 - 📚 Studying at UDG CUALTOS
 - 👾 Currently learning c++
-- 📔 2023 goals to pass physics
+- 📔 2024 goals learn some basics commands on git
 
 <br>
 
